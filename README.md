@@ -8,7 +8,7 @@
 ### **Flamme1004K** is Polyglot Programmer
 
 - 🔭 I’m currently working on **.Net(C#) And Servlet(Java) Chatting program -> SpringBoot(Java, Kotlin, JPA), Vert.x(Kotlin) Refactoring**
-- 🌱 I’m currently learning **Kotiln / vue.js / clean agile / tdd **
+- 🌱 I’m currently learning **Kotiln / vue.js / clean agile / tdd**
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about and **All**
