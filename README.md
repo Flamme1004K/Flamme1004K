@@ -7,7 +7,7 @@
 
 ### **Flamme1004K** is Polyglot Programmer
 
-- 🔭 I’m currently working on ... **search**
+- 🔭 I’m currently working on ... **search API**
 - 🌱 I’m currently learning **대규모 시스템 설계 기초 / 엘라스틱 서치 / 실용주의 프로그래머**
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
