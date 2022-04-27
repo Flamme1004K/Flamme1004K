@@ -8,7 +8,7 @@
 ### **Flamme1004K** is Polyglot Programmer
 
 - 🔭 I’m currently working on ... **search(elasticsearch) API**
-- 🌱 I’m currently learning **엘라스틱 서치 / 실용주의 프로그래머 / https://leetcode.com/explore/learn/**
+- 🌱 I’m currently learning **엘라스틱 서치 / 실용주의 프로그래머 / 코틀린 완벽 가이드 / https://leetcode.com/explore/learn/**
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about and **All**
